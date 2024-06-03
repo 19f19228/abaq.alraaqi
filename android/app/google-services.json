@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516142469081",
+    "project_id": "abaqalraaqi-df0b5",
+    "storage_bucket": "abaqalraaqi-df0b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516142469081:android:987353d5622aa0e52693c8",
+        "android_client_info": {
+          "package_name": "com.abagalraaqi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnvSKeIAmHN1gftYQmP1Pw78bLwL8bK1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
